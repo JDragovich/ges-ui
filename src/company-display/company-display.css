@@ -1,0 +1,22 @@
+.company-info{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.info-item:nth-child(odd){
+    background-color: #EEE;
+}
+
+td{
+    padding: 10px;
+}
+
+.label{
+    text-align: right;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.info{
+    text-align: left;    
+}

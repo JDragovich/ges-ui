@@ -1,0 +1,25 @@
+.up{
+    color: green;
+}
+
+.down{
+    color: red;
+}
+
+.tickerItem{
+    margin:0 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+}
+
+.tickerItem > h5{
+    margin-bottom: 5px;
+    margin-bottom: 0px;
+}
+
+.tickerItem > p{
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
